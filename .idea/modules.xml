@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Rename/Rename.iml" filepath="$PROJECT_DIR$/Rename/Rename.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed.iml" filepath="$PROJECT_DIR$/distributed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_service/ssm_service.iml" filepath="$PROJECT_DIR$/ssm_service/ssm_service.iml" />
+    </modules>
+  </component>
+</project>
