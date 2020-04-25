@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 public class Rename {
     public static void main(String[] args) {
+
+
         Scanner input = new Scanner(System.in);
         System.out.println("输入需要批量重命名文件所在都目录");
         System.out.println("例如：C:/Users/Administrator/Desktop/study");
